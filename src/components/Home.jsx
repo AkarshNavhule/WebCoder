@@ -6,8 +6,8 @@ const Home = () => {
     <>
       <div className='home' id='home'>
       <main>
-        <h1>TechSavvy</h1>
-        <p>Empowering Solutions for All..</p>
+        <h1>Techie Guyy</h1>
+        <p>Empowering Solutions for All</p>
       </main>
     </div>
 
